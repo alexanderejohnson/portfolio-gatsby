@@ -76,7 +76,18 @@ const LandingPage = () => (
               fontSize={[6, 7]}
               mb={[3, 4, 5]}
             >
-              {`Hello, I'm ${name}!`}
+              {`Hey There!`}
+            </Heading>
+
+            <Heading
+              as="h2"
+              color="primary"
+              fontSize={[5, 6]}
+              mb={[3, 5]}
+              textAlign="center"
+              style={centerHorizontally}
+            >
+              {`My name is ${name} and I'm a...`}
             </Heading>
 
             <Heading
