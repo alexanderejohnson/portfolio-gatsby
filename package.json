@@ -22,12 +22,13 @@
   },
   "keywords": [
     "gatsby",
-    "starter",
-    "contentful",
-    "PWA",
+    "software developer",
+    "mobile developer",
+    "software engineer",
+    "front-end engineer",
     "portfolio"
   ],
-  "author": "Ema Suriano",
+  "author": "Alex Johnson",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/EmaSuriano/gatsby-starter-mate/issues"
