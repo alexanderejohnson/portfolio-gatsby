@@ -87,7 +87,7 @@ const LandingPage = () => (
               textAlign="center"
               style={centerHorizontally}
             >
-              {`My name is ${name} and I'm a...`}
+              {`I'm ${name} and I'm a...`}
             </Heading>
 
             <Heading
